@@ -522,7 +522,7 @@
             <h4>There&#39;s nothing here!</h4>
             <p>Ooops, Sepertinya halaman yang anda cari tidak ada.</p>
             <p>Silahkan kembali ke halaman sebelumnya.</p>
-            <a class='homepage' title='Dzuhalah' href='https://github.com/MuhammadKhadafi07?tab=repositories'>Dafi's
+            <a class='homepage' title='Khadafi' href='https://github.com/MuhammadKhadafi07?tab=repositories'>Dafi's
                 Code_Repositories</a> &#169; 2022. Waroeng Distroe
         </div>
     </b:if>
